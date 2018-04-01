@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Just Java Coffee</string>
+    <string name="this_order">This Order For: </string>
+    <string name="hint_name">Name</string>
+    <string name="whipped_cream">Whipped Cream</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="quantity">Quantity</string>
+    <string name="order_button">Order now via Email</string>
+</resources>

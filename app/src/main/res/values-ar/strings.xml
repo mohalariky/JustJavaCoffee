@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">طلب قهوة جافا</string>
+    <string name="chocolate">شوكولاتة</string>
+    <string name="hint_name">اسمك</string>
+    <string name="order_button">ارسل الطلب الآن عبر البريد</string>
+    <string name="quantity">الكمية</string>
+    <string name="this_order">هذا الطلب لـ:</string>
+    <string name="whipped_cream">كريمة مخفوقة</string>
+</resources>
